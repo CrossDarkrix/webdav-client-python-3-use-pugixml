@@ -1,4 +1,4 @@
 # Runtime dependencies (see pyproject.toml [project.dependencies])
 requests
-lxml
+defusedxml
 python-dateutil

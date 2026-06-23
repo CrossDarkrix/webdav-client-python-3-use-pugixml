@@ -9,7 +9,7 @@ from io import BytesIO
 from re import sub
 from urllib.parse import unquote, urlsplit, urlparse
 
-import lxml.etree as etree
+import xml.etree.ElementTree as etree
 import requests
 from dateutil import parser as dateutil_parser
 
